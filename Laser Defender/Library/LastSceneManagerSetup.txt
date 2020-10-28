@@ -1,5 +1,3 @@
-sceneSetups:
-- path: Assets/Scenes/Laser Defender.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd27b6e81535665709afc0256fc9b9fdb8cc4fe88378ae58437e1db39a4d9bfe
+size 100
